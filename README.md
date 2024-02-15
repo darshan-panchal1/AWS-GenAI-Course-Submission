@@ -1,4 +1,4 @@
-# Udacity Generative AI with AWS Course - Sagemaker Project
+# Udacity Generative AI with AWS Course
 
 ## Amazon SageMaker: Fine-tuning Llama2 Large Language Model
 
@@ -9,7 +9,7 @@ This project involves fine-tuning the Llama2 Large Language Model using Amazon S
 ### 1) Pre-trained Model Evaluation
 
 - **Notebook Instance Type Used:** `ml.t3.medium`
-- **GPU Instance Used:** `ml.g5.2xlarge`
+- **Amazon EC2 G5 instance Used:** `ml.g5.2xlarge`
 
 #### Steps:
 
@@ -18,17 +18,17 @@ This project involves fine-tuning the Llama2 Large Language Model using Amazon S
 
 2. **Evaluate the Pre-trained Llama2 Model for Financial Domain Knowledge:**
    - Provide domain-specific input for evaluation.
-     - **Input:** "The results are encouraging for aggressive investors"
+   - **Input:** "The results are encouraging for aggressive investors"
    - **Model Response:** "For those who want to trade in the short term, the stock is currently trading at $31.40, which is 45.6% higher than the 52-week low of $21.67 and 66.4% higher than the 52-week high."
 
 ### 2) Fine-tuning a Large Language Model
 
-- **Fine-tune a Large Language Model with a Financial Domain-Specific Dataset**
+- Fine-tune a Large Language Model with a Financial Domain-Specific Dataset**
 
 ### 3) Evaluate the Fine-tuned Llama2 Large Language Model
 
-- **Deploy the Fine-tuned Llama2 Model on AWS SageMaker**
-- **Evaluate the Fine-tuned Llama2 Text Generation Large Language Model on Text Generation Tasks and Financial Domain Knowledge**
+- Deploy the Fine-tuned Llama2 Model on AWS SageMaker**
+- Evaluate the Fine-tuned Llama2 Text Generation Large Language Model on Text Generation Tasks and Financial Domain Knowledge**
 
 #### Steps:
 
