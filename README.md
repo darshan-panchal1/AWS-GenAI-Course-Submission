@@ -23,12 +23,12 @@ This project involves fine-tuning the Llama2 Large Language Model using Amazon S
 
 ### 2) Fine-tuning a Large Language Model
 
-- Fine-tune a Large Language Model with a Financial Domain-Specific Dataset**
+- Fine-tune a Large Language Model with a Financial Domain-Specific Dataset
 
 ### 3) Evaluate the Fine-tuned Llama2 Large Language Model
 
-- Deploy the Fine-tuned Llama2 Model on AWS SageMaker**
-- Evaluate the Fine-tuned Llama2 Text Generation Large Language Model on Text Generation Tasks and Financial Domain Knowledge**
+- Deploy the Fine-tuned Llama2 Model on AWS SageMaker
+- Evaluate the Fine-tuned Llama2 Text Generation Large Language Model on Text Generation Tasks and Financial Domain Knowledge
 
 #### Steps:
 
